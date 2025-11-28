@@ -6,7 +6,5 @@
  
  
      
-<img width="2048" height="1423" alt="https://artwork.neocities.org/photos/blinkies/CCCSpaceCase.gif" />
-     </p>
-    <p align="center"><strong> anyway STAMP DUMP  
-    </p>
+
+     
